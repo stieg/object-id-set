@@ -1,0 +1,25 @@
+{
+  "name": "object-id-set",
+  "version": "0.0.1",
+  "description": "Set designed to handle BSON ObjectId instances",
+  "main": "object-id-set.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "bson",
+    "mongo",
+    "mongoose",
+    "objectId",
+    "set",
+  ],
+  "peerDependencies": {
+    "bson": ">=4.0.0"
+  },
+  "author": "andrew stiegmann (stieg)",
+  "license": "MIT",
+  "devDependencies": {
+    "bson": "^4.1.0",
+    "jest": "^26.5.2"
+  }
+}
